@@ -1,16 +1,24 @@
-## Hi there 👋
+# Suprem Aryal
 
-<!--
-**aryalsuprem-design/aryalsuprem-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CSIT student · Exploring C, systems programming, and practical software development**
 
-Here are some ideas to get you started:
+I build small projects to understand how software works end to end. I’m currently learning networking fundamentals and sharpening my C and Git skills through hands-on practice.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured project
+
+### [HVAC Edge Dashboard](https://github.com/aryalsuprem-design/hvac-edge-dashboard)
+A local Windows C demo with a browser dashboard for changing simulated temperature and airflow values. It is a student prototype and does not connect to or control real equipment.
+
+## Current focus
+
+- C programming and debugging
+- Windows Sockets and HTTP fundamentals
+- Building, documenting, and improving small projects
+
+## Tools I’m learning
+
+C · Git · Windows Sockets · HTTP basics
+
+---
+
+Feedback and beginner-friendly collaboration are welcome.
